@@ -4,7 +4,7 @@
 Sou um desenvolvedor apaixonado por tecnologia e programação, sempre em busca de novas soluções e ideias para aprimorar minhas habilidades. Trabalho com diversas linguagens e frameworks, e adoro explorar maneiras eficientes e criativas de resolver problemas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-vargas-da-silva-4419201b6/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](felipevargasctt@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipevargasctt@gmail.com)
 
 ## 🚀 Skills
 
