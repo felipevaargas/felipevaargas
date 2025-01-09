@@ -28,4 +28,4 @@ Tenho uma base em desenvolvimento web e mobile, com conhecimento em tecnologias 
 
 ## 🌱 Atualmente aprendendo...
 
-Atualmente, estou focado em Django, explorando suas ferramentas e recursos para desenvolvimento backend com Python. Estou aprendendo a criar APIs RESTful e trabalhar com autenticação e autorização em aplicações web.
+Atualmente, estou focado em React.
